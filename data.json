@@ -1,0 +1,56 @@
+{
+    "name": "Danny Suclupe Martinez",
+    "title": "Diseñador BIM Freelance",
+    "about": "Soy un diseñador BIM con experiencia en modelado 3D, coordinación de proyectos y visualización arquitectónica. Me especializo en herramientas como Revit, AutoCAD y Navisworks para entregar soluciones eficientes y precisas.",
+    "technologies": [
+        "Revit",
+        "AutoCAD",
+        "Navisworks",
+        "SketchUp",
+        "Lumion",
+        "BIM 360"
+    ],
+    "experience": [
+        {
+            "title": "Diseñador BIM Freelance",
+            "company": "Proyectos Independientes",
+            "date": "2020 - Actualidad",
+            "description": "Desarrollo de modelos BIM para proyectos residenciales y comerciales. Coordinación con equipos de arquitectura e ingeniería."
+        },
+        {
+            "title": "Modelador BIM",
+            "company": "Estudio de Arquitectura XYZ",
+            "date": "2018 - 2020",
+            "description": "Responsable del modelado 3D y documentación técnica en proyectos de gran escala."
+        }
+    ],
+    "projects": [
+        {
+            "name": "Edificio Residencial Lima",
+            "description": "Modelado BIM completo de un edificio multifamiliar de 10 pisos en Lima.",
+            "url": "#"
+        },
+        {
+            "name": "Centro Comercial Arequipa",
+            "description": "Coordinación BIM y detección de interferencias para un centro comercial de 25,000 m².",
+            "url": "#"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diplomado en Modelado BIM",
+            "institution": "Universidad de Ingeniería y Tecnología (UTEC)",
+            "date": "2017"
+        },
+        {
+            "degree": "Arquitectura",
+            "institution": "Universidad Nacional de Ingeniería (UNI)",
+            "date": "2012 - 2016"
+        }
+    ],
+    "contact": {
+        "email": "danny.suclupe@example.com",
+        "phone": "+51 987 654 321",
+        "linkedin": "https://linkedin.com/in/dannysuclupe"
+    }
+}
